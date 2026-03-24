@@ -1,0 +1,14 @@
+------------POST-----------
+http://127.0.0.1:5000/Filme
+---------------------------
+
+Body - raw - JSON
+
+{
+  "Título": "O Poderoso Chefão",
+  "Gênero": "Drama",
+  "Duração(min)": 175,
+  "Ano de Lançamento": 1972,
+  "Diretor": "Francis Ford Coppola"  
+}
+
